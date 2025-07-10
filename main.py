@@ -25,7 +25,7 @@ dp = Dispatcher()
 CRYPTO_BOT_TOKEN = os.getenv("CRYPTO_BOT_TOKEN")
 CRYPTO_BOT_API_URL = "https://pay.crypt.bot/api"
 USDT_RATE = Decimal('79')  # Курс USDT к рублю
-YOOMONEY_WALLET = "-"  # Номер кошелька
+CRYPTO_BOT_TOKEN = "427929:AAzhODbAF5nh8HxSAPoiITWTROCcjc4EvNo"  # Номер кошелька
 SUPPORT_USERNAME = "@KFC_SERVIS"  # юз поддержки
 
 # База данных
